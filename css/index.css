@@ -6,12 +6,12 @@
 }
 
 body {
-	background-color: #ff9966;
+	background-color: #212121;
 	text-align: center;
 	padding: 10px;
 	margin: 0;
-	color: #ae8913;
-	font-family: 'Indie Flower', handwriting;
+	color: #eeeeee;
+	font-family: 'Roboto Mono', monospace;
 }
 
 h1 {
