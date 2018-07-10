@@ -11,7 +11,7 @@ body {
 	padding: 10px;
 	margin: 0;
 	color: #ae8913;
-	font-family: 'Indie Flower', monospace;
+	font-family: 'Indie Flower', handwriting;
 }
 
 h1 {
@@ -39,7 +39,7 @@ input[type="file"] {
 }
 .file-upload-label {
 	border: 2px solid #e0e0e0;
-	background-color: #424242;
+	background-color: #614a00;
 	display: inline-block;
 	padding: 6px 12px;
 	cursor: pointer;
